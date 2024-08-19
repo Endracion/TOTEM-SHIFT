@@ -11,6 +11,7 @@ It was created for the SEEED XIAO keyboard contest by GEIGEIGEIST.\
 [Here](https://www.hackster.io/geist/totem-a-tiny-splitkeyboard-with-splay-cb2e43) you can read about the process of making it.
 
 Note that most of the guides and links will remain unchanged, the major changes will be to the 3D printed case design, as it uses the [TOTOEM Redux by VOID](https://www.printables.com/model/840146-totem-redux) case files as base, which are better suited to FDM 3D printing.
+
 The PCB will slightly modified, so this version will not be compatible with existing PCBs or cases for the original TOTEM.
 
 ***
@@ -58,19 +59,24 @@ This is the TOTEM in a black resin case
 
 ## BUY 
 
-You can buy TOTEM kits and finished builds on [keeb.supply](https://keeb.supply/products/geist-totem) (unfortunately Europe only for now)
+If there is enough interest, I may do a production run for this modified version, please feel free to reach out.
 
 ***
 
 ## CREDITS
 
+### ORIGINAL CREATOR
+
+The amazing [GEIGEIGEIST](https://github.com/GEIGEIGEIST) whose design are beautiful and inspiring.
+VOID who created a FDM optimized case [TOTOEM Redux](https://www.printables.com/model/840146-totem-redux).
+
 ### INSPIRATION
 
-I've added the additional pinky key to make the TOTEM compatible with the layout boards like the [Balbuzard](https://github.com/brow/balbuzard) by [Tom Brow](https://github.com/brow) and the [Osprette](https://github.com/smores56/osprette) by [Sam Mohr](https://github.com/smores56) use, where you put the keybinding of the top left and right keys on an outer pinky key.
+The additional pinky key makes the TOTEM compatible with the layout boards like the [Balbuzard](https://github.com/brow/balbuzard) by [Tom Brow](https://github.com/brow) and the [Osprette](https://github.com/smores56/osprette) by [Sam Mohr](https://github.com/smores56) use, where you put the keybinding of the top left and right keys on an outer pinky key.
 
 ### HELP FIXING THINGS
 
-People who helped me create this board and fix stuff
+People who helped GEIGEIGEIST create this board and fix stuff:
 
 #### PCB
 - [Marco "Bob"](https://github.com/GroooveBob)
@@ -85,6 +91,5 @@ People who helped me create this board and fix stuff
 - [Alaa Saad Mansour](https://github.com/AlaaSaadAbdo)
 - [pekudzu](https://github.com/pekudzu)
 
-
-If you build a TOTEM I would be pretty happy to see some pictures. And if you want to leave me a tip you can do this [here](https://ko-fi.com/geigeigeist) (but please don't feel pressured)
+If you build a TOTEM, GEIGEIGEIST would be pretty happy to see some pictures. And if you want to leave him a tip you can do so [here](https://ko-fi.com/geigeigeist) (but please don't feel pressured)
 
