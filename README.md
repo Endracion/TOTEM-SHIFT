@@ -15,7 +15,8 @@ It was created for the SEEED XIAO keyboard contest by GEIGEIGEIST.\
 
 Note that most of the guides and links will remain unchanged, the major changes will be to the 3D printed case design, as it uses the [TOTOEM Redux by VOID](https://www.printables.com/model/840146-totem-redux) case files as base, which are better suited to FDM 3D printing.
 
-The PCB will slightly modified, so this version will not be compatible with existing PCBs or cases for the original TOTEM.
+> **Note**
+> The PCB modified enought that this version will not be compatible with existing PCBs or cases for the original TOTEM.
 
 ***
 
