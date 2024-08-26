@@ -6,7 +6,10 @@
 
 <h1 align="center">T O T E M - S H I F T</h1>
 
-TOTEM-SHIFT is a modified 38 keys column-staggered split keyboard originally by GEIGEIGEIST. This TOTEM-SHIFT version aims to allow for a larger battery and emphasize styling options through a swappable top plate held with magnets. Meant to be used with a SEEED XIAO BLE (no longer supports the RP2040 with the TRRS port removed).
+TOTEM-SHIFT is a modified 38 keys column-staggered split keyboard originally by GEIGEIGEIST.
+
+This TOTEM-SHIFT version aims to allow for a larger battery and emphasize styling options through a swappable top plate held with magnets. Meant to be used with a SEEED XIAO BLE (no longer supports the RP2040 with the TRRS port removed).
+
 It was created for the SEEED XIAO keyboard contest by GEIGEIGEIST.\
 [Here](https://www.hackster.io/geist/totem-a-tiny-splitkeyboard-with-splay-cb2e43) you can read about the process of making it.
 
