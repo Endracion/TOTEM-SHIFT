@@ -10,7 +10,7 @@ My changes are as follows:
 - Removed the countersink from the bottom so that the midplate is screwed into the bottom plate and acts as the magnet retention mechanism, along with the feet recess as it won't print well on FDM.
 - Removed all side holes except for the ON/OFF switch and USB-C port since the TRRS port is removed and the reset switch is now hidden under the top cover.
 
-These files can be found in the [BLE Redux](https://github.com/Endracion/TOTEM-SHIFT/tree/main/case/BLE%20Redux) folder.
+These files can be found in the [BLE Redux](/case/BLE%20Redux) folder.
 
 > **Note**
 > These files are not complete yet, it's still a WIP.
