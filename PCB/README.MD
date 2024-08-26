@@ -1,3 +1,20 @@
+# TOTEM-SHIFT PCB FILES
+
+I have modified the original PCB extensively, so here is a list of the changes:
+- Moved the middle finger column down, as its stagger was very exaggerated (from many user comments).
+- Made the underside of the XIAO easier to solder.
+- Added a second battery contact point above the diodes for the larger size battery.
+- Rerouted many traces, cleaned up some others and added many diagonal angles for aesthetic purposes.
+- Removed the TRRS connector completely as this is a wireless-centric design.
+- Replaced the reset switch with a very common Omron style 6x6 tactile switch, which sits where the TRRS used to be.
+- Removed the large color silkscreens as while they were super nice, it was not possible for me to edit them in a way that looked good since I don't have the original files.
+- Moved a few other things to make place for these changes.
+- Tried to realign one of the holes on the right as it wasn't mirrored properly.
+- Everything has been updatd for KiCad 8.0 and gerber files should be easily uploaded to PCB manufacturer websites now (old ones were giving me errors).
+
+> **Note**
+> As a reminder: The PCB is modified enought that this version will not be compatible with existing PCBs or cases for the original TOTEM.
+
 # TOTEM PCB FILES
 
 ## MANUFACTURING
