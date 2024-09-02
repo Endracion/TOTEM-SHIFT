@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.25,
-          "height": 2.5,
-          "width": 2.5
+          "drill": 0.7,
+          "height": 0.9,
+          "width": 0.9
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -456,7 +456,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "TOTEM-SHIFT 0.4.kicad_pro",
+    "filename": "TOTEM-SHIFT 0.4.kicad_pcb_hiddenpower.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -494,7 +494,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../totem.step",
+      "step": "../../../totem_nohole.step",
       "svg": "./",
       "vrml": ""
     },
