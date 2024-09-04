@@ -5605,7 +5605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_1P1T_6x3.5mm_H5.0_APEM_MJTP1250"
 			(at 125.984 73.152 0)
 			(effects
 				(font
@@ -8828,7 +8828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_1P1T_6x3.5mm_H5.0_APEM_MJTP1250"
 			(at 179.324 73.152 0)
 			(effects
 				(font

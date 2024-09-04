@@ -4,11 +4,12 @@ Remixed the excellent [Totem Redux](https://www.printables.com/model/840146-tote
 This case is made to be printed on an FDM printer, though it may work just fine on resin as well, I have not tested it.
 
 My changes are as follows:
-- Larger cavity above the diodes to accomodate larger battery.
-- Removed all holes from the top in order to make it look cleaner and allow for future design choices.
-- Replaced these top screw holes with recessed magnet holes so they can be stuck in.
-- Removed the countersink from the bottom so that the midplate is screwed into the bottom plate and acts as the magnet retention mechanism, along with the feet recess as it won't print well on FDM.
-- Removed all side holes except for the ON/OFF switch and USB-C port since the TRRS port is removed and the reset switch is now hidden under the top cover.
+- Larger cavity above the diode area to accomodate a larger battery.
+- Removed all holes from the top cover in order to make it look cleaner and allow for future design choices.
+- Replaced these top screw holes with recessed magnet holes so it can be magnetically attached and swapped ([demo](https://www.youtube.com/watch?v=WX03MpgzbRs)).
+- Removed the countersink from the bottom plate so that the midplate is screwed into the bottom plate and acts as the magnet retention mechanism, along with the recessed feet holes as it won't print well on FDM.
+- Removed all side holes except USB-C port since the TRRS port is removed and the reset and power switches are now hidden under the top cover.
+- Adjusted many small parts of the assembly and redrew the bottom case to make FDM printing easier.
 
 These files can be found in the [BLE Redux](/case/BLE%20Redux) folder.
 

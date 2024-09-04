@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
+          "drill": 1.05,
           "height": 1.8,
-          "width": 3.0
+          "width": 1.8
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -77,7 +77,7 @@
         "extra_footprint": "warning",
         "footprint": "error",
         "footprint_symbol_mismatch": "warning",
-        "footprint_type_mismatch": "error",
+        "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "holes_co_located": "warning",
