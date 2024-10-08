@@ -494,7 +494,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../totem.step",
+      "step": "../../../totem_topswitch.step",
       "svg": "./",
       "vrml": ""
     },

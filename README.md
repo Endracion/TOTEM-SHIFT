@@ -10,6 +10,9 @@ TOTEM-SHIFT is a modified 38 keys column-staggered split keyboard originally by 
 
 This TOTEM-SHIFT version aims to allow for a larger battery and emphasize styling options through a swappable top plate held with magnets ([demo](https://www.youtube.com/watch?v=WX03MpgzbRs)). Meant to be used with a SEEED XIAO BLE (no longer supports the RP2040 with the TRRS port removed) for a wireless only build.
 
+**WHY** a swappable top plate? Well I'm sure everyone has asked themselves at least once, which case should I go for? And then you're half locked into it.
+I want to be able to change my mind, to change colors, logos, motifs or other surface effects to go with the style I want that day, so why not allow myself to do just that with a swappable top plate!
+
 It was created for the SEEED XIAO keyboard contest by GEIGEIGEIST.\
 [Here](https://www.hackster.io/geist/totem-a-tiny-splitkeyboard-with-splay-cb2e43) you can read about the process of making it.
 

@@ -4,7 +4,7 @@ I have modified the original PCB extensively, so here is a list of the largest c
 - Moved the middle finger column down by approx 2.3mm, as it felt a little high compared to other boards.
 - Made the underside of the XIAO easier to solder through a larger cutout.
 - Moved the battery contact points above the diodes for the larger size battery cavity.
-- Moved the diodes to the rear to make a little more space for the battery.
+- Moved the diodes to the rear to make a little more space for the battery and for a clean top PCB.
 - Rerouted many traces, cleaned up others and added many diagonal angles for aesthetic purposes and to remove acute angles which are more prone to manufacturing errors.
 - Removed the TRRS connector completely as this is a wireless-centric design now.
 - Replaced the reset and power switches with hidden ones inside of the top plate, where the TRRS used to be. This gives the case a completely clean look.
@@ -15,6 +15,17 @@ I have modified the original PCB extensively, so here is a list of the largest c
 
 > **Note**
 > As a reminder: The PCB is modified enought that this version will not be compatible with existing PCBs or cases for the original TOTEM.
+
+# TOTEM-SHIFT FUTURE
+
+What I'm thinking of working on next after this build is complete and I'm satisfied using it.
+
+- [ ] Utilize additional pins from NFC/Sense for ?
+- [ ] Implement support for LCD on the board or on the dongle (for layer visibility and looks)
+- [ ] Implement support for encoder
+- [ ] Implement support for pointing device (touchpad, trackpad, mini trackball)
+- [ ] Recreate a similar board from scratch that's fully reversible
+
 
 # TOTEM PCB FILES
 
