@@ -1,5 +1,8 @@
 # TOTEM BUILD GUIDE
 
+> **Warning**
+> The updated build guide is still missing a few pictures.
+
 ## PART LIST
 
 ### REQUIRED PARTS
@@ -132,17 +135,11 @@ The power switch has some tiny knobs on its bottom, which fit into the PCB holes
 
 ## RESET SWITCHES
 
-Insert the switch into the top of the PCB. 
+Insert the switch into the top of the PCB; aligne it so that it sits straight. Due to the leg shape, it should hold by itself, so you can then solder one leg at a time from the top.
+
+I then turn the board over and use flush cutters to cut part of the producting legs off and add a little more solder from this side.
 
 ![reset switch](/docs/images/buildguide/reset_01.jpg)
-
-I placed the footprint a bit more towards the edge, than it's meant to be, to integrate it better into the case. Therefore the tiny stabilizer on the bottom of the switch doesn't touch the PCB anymore. Make sure it is aligned with the PCB vertically, so it's oriented correctly.
-
-![reset switch orientation](/docs/images/buildguide/reset_02.jpg)
-
-Then solder the four pins on the bottom to the PCB
-
-![reset switch solder](/docs/images/buildguide/reset_03.jpg)
 
 
 ***
@@ -163,7 +160,9 @@ Apply some flux and try to hold the iron at an angle where you touch the pads of
 
 ![soldering MCU](/docs/images/buildguide/MCU_01.jpg)
 
-The pads on the back are a bit fiddly to solder, so you should add a lot of flux to the pads on the microcontroller first. Then apply the same technique as on the front: Try to touch the pads on the microcontroller and the PCB before adding solder. 
+The pads on the back are a bit harder to solder, but I believe in you! I've made the cutout a lot larger than the original, so it should be a little easier. Apply the same technique as on the front: Try to touch the pads on the microcontroller and the PCB before adding solder. 
+
+First off, if you didn't choose castellated half holes (which I'm too cheap for), you'll have extra pieces of copper in these half holes from the routing step, which you'll need to carefully wedge out and remove. Here I used a needle to push it away from the hole, then some fine tweezers to rock it side to side carefully, so that it detaches without ripping anything. This way you're left with a nice solderable surface.
 
 ![soldering MCU back](/docs/images/buildguide/MCU_02.jpg)
 
@@ -206,9 +205,6 @@ Probably a good idea to also install switches to make sure all of them work, bef
 ***
 
 ## CASE
-
-> **Note**
-> I'm using the transparent version of the case, so it's easier to see where everything goes, but it's identical to the black/white case.
 
 First, place the PCB on the bottom plate, making sure the integrated standoffs go through the holes and fits snugly.
 
