@@ -21,7 +21,7 @@ I have modified the original PCB extensively, so here is a list of the largest c
 What I'm thinking of working on next after this build is complete and I'm satisfied using it.
 
 - [ ] Utilize additional pins from NFC/Sense for ?
-- [ ] Implement support for LCD on the board or on the dongle (for layer visibility and looks)
+- [ ] Implement support for LCD on the board or on the dongle (for layer visibility and style)
 - [ ] Implement support for encoder
 - [ ] Implement support for pointing device (touchpad, trackpad, mini trackball)
 - [ ] Recreate a similar board from scratch that's fully reversible

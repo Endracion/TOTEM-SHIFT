@@ -31,13 +31,14 @@ Note that most of the guides and links will remain unchanged, the major changes 
 
 ## PCB
 
-[Here](/PCB/) you can find the KiCad files and Gerbers for the TOTEM.
+[Here](/PCB/TOTEM-SHIFT%200.4) you can find the KiCad files and Gerbers for the TOTEM.
+Gerber files to upload for production are found [here](https://github.com/Endracion/TOTEM-SHIFT/tree/main/PCB/TOTEM-SHIFT%200.4/production)
 
 ***
 
 ## CASE
 
-You can use the TOTEM without a case, but [here](/case/) you can find one I made for it.
+You can use the TOTEM without a case, but [here](https://www.printables.com/model/1033457-totem-shift-wireless-ble-redux-split-splay-keyboar) is the FDM 3D printed case I designed for it.
 
 ***
 
@@ -49,12 +50,14 @@ The build guide for the TOTEM can be found [here](/docs/buildguide.md).
 
 ## FIRMWARE
 
-[QMK config](https://github.com/GEIGEIGEIST/qmk-config-totem) for the TOTEM (wired using the XIAO RP2040)\
-[ZMK config](https://github.com/GEIGEIGEIST/zmk-config-totem) for the TOTEM (wireless using the XIAO BLE)
+[ZMK config](https://github.com/Endracion/zmk-config-totem-shift) for the TOTEM (wireless using the XIAO BLE)
+The dongle version is coming at a later time.
 
 ***
 
 ## PHOTOS
+
+This is the 3D printed TOTEM-SHIFT BLE Redux case with the MOTE keycaps.
 
 This is the TOTEM in a black resin case
 
@@ -76,6 +79,7 @@ If there is enough interest, I may do a production run for this modified version
 
 The amazing [GEIGEIGEIST](https://github.com/GEIGEIGEIST) whose design are beautiful and inspiring.
 VOID who created a FDM optimized case [TOTOEM Redux](https://www.printables.com/model/840146-totem-redux).
+eiga for the [MOTE keycaps]{https://www.printables.com/model/864126-mote-choc-low-profile-flat-keycaps}.
 
 ### INSPIRATION
 
