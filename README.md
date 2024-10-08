@@ -32,7 +32,8 @@ Note that most of the guides and links will remain unchanged, the major changes 
 ## PCB
 
 [Here](/PCB/TOTEM-SHIFT%200.4) you can find the KiCad files and Gerbers for the TOTEM.
-Gerber files to upload for production are found [here](https://github.com/Endracion/TOTEM-SHIFT/tree/main/PCB/TOTEM-SHIFT%200.4/production)
+
+Gerber files to upload for production are found [here](https://github.com/Endracion/TOTEM-SHIFT/tree/main/PCB/TOTEM-SHIFT%200.4/production).
 
 ***
 
@@ -51,6 +52,7 @@ The build guide for the TOTEM can be found [here](/docs/buildguide.md).
 ## FIRMWARE
 
 [ZMK config](https://github.com/Endracion/zmk-config-totem-shift) for the TOTEM (wireless using the XIAO BLE)
+
 The dongle version is coming at a later time.
 
 ***

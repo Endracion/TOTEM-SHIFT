@@ -16,6 +16,8 @@ I have modified the original PCB extensively, so here is a list of the largest c
 > **Note**
 > As a reminder: The PCB is modified enought that this version will not be compatible with existing PCBs or cases for the original TOTEM.
 
+![TOTEM PCB](/PCB/TOTEM-SHIFT%200.4%20PCB.jpg)
+
 # TOTEM-SHIFT FUTURE
 
 What I'm thinking of working on next after this build is complete and I'm satisfied using it.

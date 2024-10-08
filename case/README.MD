@@ -1,6 +1,9 @@
-# TOTEM-SHIFT REDUX CASE
+# TOTEM-SHIFT BLE REDUX CASE
 
-Remixed the excellent [Totem Redux](https://www.printables.com/model/840146-totem-redux) by VOID and drew inspiration from BeeKeeb's rendition as well.
+These files can be found on Printables: [TOTEM-SHIFT Wireless BLE Redux Case](https://www.printables.com/model/1033457-totem-shift-wireless-ble-redux-split-splay-keyboar).
+I've paired with the [MOTE](https://www.printables.com/model/864126-mote-choc-low-profile-flat-keycaps) keycaps and the [15 degree remix](https://www.printables.com/model/1000549-mote-remixed-choc-low-profile-flat-keycaps-with-mo) for more of a keywell feel.
+
+I remixed the excellent [Totem Redux](https://www.printables.com/model/840146-totem-redux) by VOID and drew inspiration from BeeKeeb's rendition as well.
 This case is made to be printed on an FDM printer, though it may work just fine on resin as well, I have not tested it.
 
 My changes are as follows:
@@ -13,7 +16,7 @@ My changes are as follows:
 - Adjusted many small parts of the assembly and redrew the bottom case to make FDM printing easier.
 - Adjusted part heights to match 0.2 mm printing layer height and so that the midplate is the correct height to attach the switches to it and not create additional flexing.
 
-These files can be found on Printables: [TOTEM-SHIFT Wireless BLE Redux Case](https://www.printables.com/model/1033457-totem-shift-wireless-ble-redux-split-splay-keyboar).
+![TOTEM-SHIFT BLE Redux case](/case/BLE%20Redux/TOTEM-SHIFT%20BLE%20Redux%20Case.jpg)
 
 # ORIGINAL TOTEM CASE
 
@@ -27,6 +30,5 @@ If you're sure you only will use the wired version you can also use the case wit
 
 > **Note**
 > The manufacturer will probably warn you about too thin sections, but it worked fine for me since these sections are pretty small.
-
 
 ![TOTEM case](/docs/images/TOTEM_case.png)
