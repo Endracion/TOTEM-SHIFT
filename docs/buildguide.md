@@ -13,7 +13,7 @@
 | 1u Choc keycaps | 38 | GEIST recommends MBK, LDSA or CFX keycaps, but I used the [MOTE](https://www.printables.com/model/864126-mote-choc-low-profile-flat-keycaps/remixes) and the [15 degree remix](https://www.printables.com/model/1000549-mote-remixed-choc-low-profile-flat-keycaps-with-mo) for a keywell feeling |
 | reset button    | 02 | 3x6x4.3mm DIP 2 pin tacticle switches |
 | power switch    | 02 | MSK-12C02 |
-| Lipo battery    | 02 | There is space for a battery of 7x15x42mm with capacities up to ~180 mAh; I used |
+| Lipo battery    | 02 | There is space for a battery of 7x15x42mm with capacities up to ~180 mAh; I used 401230 |
 | USB-C cable     | 01 | For charging the keyboard or connecting it to your PC |
 
 
